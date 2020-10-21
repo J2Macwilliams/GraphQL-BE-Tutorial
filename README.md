@@ -14,11 +14,11 @@ My hope is that you develop as much a fondness as I have over it.
 I could never have gotten this far without the help for the online community. So I give
 ## Thanks to:
 [Sasha Solomon](https://www.linkedin.com/in/sasha-s-3808365a/)<br/>
-[Ben Awad](https://www.linkedin.com/in/benawad/)
-[Giuseppe Picciano](https://www.linkedin.com/in/giuseppe-picciano-02b94014b/)
-[Rahul Ghandi](https://morioh.com/p/2ea3e8a87744)
-[Bernie Durfee](https://www.linkedin.com/in/berniedurfee/)
-[Michael Checo](https://www.linkedin.com/in/michael-checo/)
+[Ben Awad](https://www.linkedin.com/in/benawad/)<br/>
+[Giuseppe Picciano](https://www.linkedin.com/in/giuseppe-picciano-02b94014b/)<br/>
+[Rahul Ghandi](https://morioh.com/p/2ea3e8a87744)<br/>
+[Bernie Durfee](https://www.linkedin.com/in/berniedurfee/)<br/>
+[Michael Checo](https://www.linkedin.com/in/michael-checo/)<br/>
 
 >Project Steps
 *Preface*
