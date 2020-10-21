@@ -29,12 +29,19 @@ I could never have gotten this far without the help for the online community. So
 
 
 1. SetUp Project
+
 `npm init -y`
+
 2. Add gitiginore
+
 `npx gitignore node`
+
 3.Add project dependencies
+
 `yarn add apollo-server bcryptjs dotenv graphql jsonwebtoken prisma-client-lib`
+
 4. Add Dev Dependencies
+
 `yarn add -D @babel/cli @babel/core @babel/node @babel/plugin-transform-runtime @babel/plugin-transform-spread @babel/preset-env @babel/register @babel/runtime apollo-boost cross-fetch jest nodemon env-cmd`
 
 **Consult the recording for further steps**
