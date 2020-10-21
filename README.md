@@ -20,7 +20,7 @@ I could never have gotten this far without the help for the online community. So
 [Bernie Durfee](https://www.linkedin.com/in/berniedurfee/)<br/>
 [Michael Checo](https://www.linkedin.com/in/michael-checo/)<br/>
 
->Project Steps
+## Project Steps
 *Preface*
 ### Install Docker locally
 [Docker](https://www.docker.com/products/docker-desktop)
