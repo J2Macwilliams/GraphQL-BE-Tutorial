@@ -13,6 +13,7 @@ My hope is that you develop as much a fondness as I have over it.
 
 I could never have gotten this far without the help for the online community. So I give
 ## Thanks to:
+
 [Sasha Solomon](https://www.linkedin.com/in/sasha-s-3808365a/)<br/>
 [Ben Awad](https://www.linkedin.com/in/benawad/)<br/>
 [Giuseppe Picciano](https://www.linkedin.com/in/giuseppe-picciano-02b94014b/)<br/>
@@ -21,6 +22,7 @@ I could never have gotten this far without the help for the online community. So
 [Michael Checo](https://www.linkedin.com/in/michael-checo/)<br/>
 
 ## Project Steps
+
 *Preface*
 ### Install Docker locally
 [Docker](https://www.docker.com/products/docker-desktop)
