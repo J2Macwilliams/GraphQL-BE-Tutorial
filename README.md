@@ -42,6 +42,6 @@ I could never have gotten this far without the help for the online community. So
 
 4. Add Dev Dependencies
 
-`yarn add -D @babel/cli @babel/core @babel/node @babel/plugin-transform-runtime @babel/plugin-transform-spread @babel/preset-env @babel/register @babel/runtime apollo-boost cross-fetch jest nodemon env-cmd`
+```yarn add -D @babel/cli @babel/core @babel/node @babel/plugin-transform-runtime @babel/plugin-transform-spread @babel/preset-env @babel/register @babel/runtime apollo-boost cross-fetch jest nodemon env-cmd```
 
 **Consult the recording for further steps**
