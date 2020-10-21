@@ -13,15 +13,16 @@ My hope is that you develop as much a fondness as I have over it.
 
 I could never have gotten this far without the help for the online community. So I give
 ## Thanks to:
-[Sasha Solomon](https://www.linkedin.com/in/sasha-s-3808365a/)
-[Ben Awad](https://www.linkedin.com/in/benawad/)
-[Giuseppe Picciano](https://www.linkedin.com/in/giuseppe-picciano-02b94014b/)
-[Rahul Ghandi](https://morioh.com/p/2ea3e8a87744)
-[Bernie Durfee](https://www.linkedin.com/in/berniedurfee/)
-[Michael Checo](https://www.linkedin.com/in/michael-checo/)
 
+[Sasha Solomon](https://www.linkedin.com/in/sasha-s-3808365a/)<br/>
+[Ben Awad](https://www.linkedin.com/in/benawad/)<br/>
+[Giuseppe Picciano](https://www.linkedin.com/in/giuseppe-picciano-02b94014b/)<br/>
+[Rahul Ghandi](https://morioh.com/p/2ea3e8a87744)<br/>
+[Bernie Durfee](https://www.linkedin.com/in/berniedurfee/)<br/>
+[Michael Checo](https://www.linkedin.com/in/michael-checo/)<br/>
 
->Project Steps
+## Project Steps
+
 *Preface*
 ### Install Docker locally
 [Docker](https://www.docker.com/products/docker-desktop)
@@ -30,12 +31,22 @@ I could never have gotten this far without the help for the online community. So
 
 
 1. SetUp Project
+
 `npm init -y`
+
 2. Add gitiginore
+
 `npx gitignore node`
+
 3.Add project dependencies
+
 `yarn add apollo-server bcryptjs dotenv graphql jsonwebtoken prisma-client-lib`
+
 4. Add Dev Dependencies
-`yarn add -D @babel/cli @babel/core @babel/node @babel/plugin-transform-runtime @babel/plugin-transform-spread @babel/preset-env @babel/register @babel/runtime apollo-boost cross-fetch jest nodemon env-cmd`
+
+```
+yarn add -D @babel/cli @babel/core @babel/node @babel/plugin-transform-runtime @babel/plugin-transform-spread @babel/preset-env @babel/register @babel/runtime apollo-boost cross-fetch jest nodemon env-cmd
+
+```
 
 **Consult the recording for further steps**
