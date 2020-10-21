@@ -1,0 +1,18 @@
+type User {
+  id: ID! @id
+  username: String! @unique
+  password: String!
+  stories: [Story!]
+}
+
+type Story {
+  id: ID! @id
+  characters: [Character!]
+  author: User @relation(link: INLINE)
+}
+
+type Character {
+  id: ID! @id
+  name: String
+  parable: Story @relation(link: INLINE)
+}
